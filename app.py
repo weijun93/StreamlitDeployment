@@ -5,7 +5,6 @@ import altair as alt
 import plotly.express as px
 import requests
 import certifi
-from urllib.request import urlopen
 from pycaret.classification import load_model
 from sklearn.preprocessing import LabelEncoder
 
