@@ -5,6 +5,5 @@ altair
 plotly
 requests
 certifi
-urllib
 pycaret
 sklearn
