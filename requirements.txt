@@ -6,4 +6,4 @@ plotly
 requests
 certifi
 pycaret
-sklearn
+scikit-learn
