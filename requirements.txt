@@ -1,0 +1,11 @@
+streamlit
+numpy
+pandas
+altair
+plotly
+requests
+certifi
+json
+urllib
+pycaret
+sklearn
