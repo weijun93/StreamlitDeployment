@@ -181,7 +181,6 @@ def main():
                 # Mark sector as processed
                 processed_sectors.add(sector)
 
-                st.subheader(sector)
                 st.write(f"### {sector} <br><i><span style='font-size:20px; font-weight: normal;'>(Based on Total Revenue $Millions)</span></i>", unsafe_allow_html=True)
 
                 companies_in_sector = grouped_companies.get_group(sector)
