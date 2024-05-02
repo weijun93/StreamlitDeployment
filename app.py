@@ -163,7 +163,7 @@ def main():
     
 
     with col2:
-	st.subheader("Top 5 Companies by Sector")
+        st.subheader("Top 5 Companies by Sector")
         # Check if any companies are selected
         if selected_companies:
             # Keep track of sectors already processed
